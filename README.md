@@ -1,21 +1,17 @@
 # Hello, I'm Miguel Denis
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-
-
 I am a recent graduate with a Bachelor of Science in Cyber Forensics, driven by a profound interest in technology and a strong dedication to solving complex problems.
 
 ## Objective
-
 
 My journey in cyber forensics has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
 
-
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/miguel-denis/Wazuh-Lab/blob/main/README.md">Wazuh Lab</a>|
 | HTML/CSS/Javascript/PHP                       | <a href="https://judgemnentknight.com">Boxing Website</a>|
 |Cyber Best Practices, Network Vulnerability, Threat Detection |  <a href="https://www.credly.com/badges/84be5124-617f-4177-8b3b-ccd50bd5bc12/linked_in_profile">Cisco CS Badge</a> |
 
