@@ -17,6 +17,7 @@ My journey in cyber forensics has led me to develop a passion for cybersecurity,
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | HTML/CSS/Javascript/PHP                       | <a href="https://judgemnentknight.com">Boxing Website</a>|
+|Cyber Best Practices, Network Vulnerability, Threat Detection |  <a href="https://www.credly.com/badges/84be5124-617f-4177-8b3b-ccd50bd5bc12/linked_in_profile">Cisco CS Badge</a> |
 
 ## Tools
 
@@ -38,9 +39,11 @@ My journey in cyber forensics has led me to develop a passion for cybersecurity,
 ## Certifications
 <div>
   <a href="https://www.credly.com/badges/84be5124-617f-4177-8b3b-ccd50bd5bc12/linked_in_profile" target="_blank">
-    <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" alt="CDSA Certification Badge" />
+    <img src="https://img.shields.io/badge/-Introduction to Cybersecurity-007ACC?&style=for-the-badge&logoColor=white" alt="CDSA Certification Badge" />
   </a>
-
+   <a href="[https://www.credly.com/badges/84be5124-617f-4177-8b3b-ccd50bd5bc12/linked_in_profile](https://www.credly.com/badges/3a2c8c5b-7f78-4a7b-bd72-b1d874e162a8/linked_in_profile)" target="_blank">
+    <img src="https://img.shields.io/badge/-Introduction to Cybersecurity-FF0000?&style=for-the-badge&logoColor=white" alt="CDSA Certification Badge" />
+  </a>
 </div>
 
 ## Projects
