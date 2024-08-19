@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hello, I'm Miguel Denis
+<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<!--
-**miguel-denis/miguel-denis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a recent graduate with a Bachelor of Science in Cyber Forensics, driven by a profound interest in technology and a strong dedication to solving complex problems.
+
+## Objective
+
+
+My journey in cyber forensics has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+
+## Skills
+
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| HTML/CSS/Javascript/PHP                       | <a href="https://judgemnentknight.com">Boxing Website</a>|
+
+## Tools
+
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+</div>
+
+### Cloud
+<div>
+    <img src="https://img.shields.io/badge/-Linode-00A95C?&style=for-the-badge&logo=Linode&logoColor=white" />
+</div>
+
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Wazuh-005571?&style=for-the-badge&logo=Wazuh&logoColor=white" />
+</div>
+
+## Certifications
+<div>
+  <a href="https://www.credly.com/badges/84be5124-617f-4177-8b3b-ccd50bd5bc12/linked_in_profile" target="_blank">
+    <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" alt="CDSA Certification Badge" />
+  </a>
+
+</div>
+
+## Projects
+- Detection Lab
+- Boxing Website
